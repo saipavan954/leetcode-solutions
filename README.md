@@ -15,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [3110-score-of-a-string](https://github.com/saipavan954/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/saipavan954/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
