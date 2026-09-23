@@ -13,6 +13,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saipavan954/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/saipavan954/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/saipavan954/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/saipavan954/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/saipavan954/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/saipavan954/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/saipavan954/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
