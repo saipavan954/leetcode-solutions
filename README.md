@@ -20,6 +20,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/saipavan954/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/saipavan954/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2574-left-and-right-sum-differences](https://github.com/saipavan954/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/saipavan954/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saipavan954/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/saipavan954/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/saipavan954/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
