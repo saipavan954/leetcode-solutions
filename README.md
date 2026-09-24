@@ -93,4 +93,8 @@
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/saipavan954/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/saipavan954/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
