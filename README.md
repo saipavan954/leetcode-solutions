@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/saipavan954/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [1470-shuffle-the-array](https://github.com/saipavan954/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/saipavan954/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
