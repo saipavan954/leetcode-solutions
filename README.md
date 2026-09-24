@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0027-remove-element) |
 | [1470-shuffle-the-array](https://github.com/saipavan954/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/saipavan954/leetcode-solutions/tree/master/0175-combine-two-tables) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
