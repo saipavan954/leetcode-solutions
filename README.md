@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/saipavan954/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/saipavan954/leetcode-solutions/tree/master/0050-powx-n) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2413-smallest-even-multiple](https://github.com/saipavan954/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/saipavan954/leetcode-solutions/tree/master/0035-search-insert-position) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/saipavan954/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
