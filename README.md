@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/saipavan954/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/saipavan954/leetcode-solutions/tree/master/1929-concatenation-of-array) |
