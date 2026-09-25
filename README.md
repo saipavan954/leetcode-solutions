@@ -30,6 +30,7 @@
 | [0078-subsets](https://github.com/saipavan954/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/saipavan954/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0169-majority-element) |
 | [1470-shuffle-the-array](https://github.com/saipavan954/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -72,6 +73,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0169-majority-element) |
 | [0771-jewels-and-stones](https://github.com/saipavan954/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -101,6 +103,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3467-transform-array-by-parity](https://github.com/saipavan954/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
@@ -117,6 +120,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/saipavan954/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0169-majority-element) |
 | [3467-transform-array-by-parity](https://github.com/saipavan954/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/saipavan954/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Database
@@ -140,4 +144,12 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/saipavan954/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
