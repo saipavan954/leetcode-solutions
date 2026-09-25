@@ -28,6 +28,7 @@
 | [0066-plus-one](https://github.com/saipavan954/leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/saipavan954/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/saipavan954/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0136-single-number) |
 | [1470-shuffle-the-array](https://github.com/saipavan954/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/saipavan954/leetcode-solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0136-single-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
