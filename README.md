@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/saipavan954/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/saipavan954/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/saipavan954/leetcode-solutions/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2413-smallest-even-multiple](https://github.com/saipavan954/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/saipavan954/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/saipavan954/leetcode-solutions/tree/master/0066-plus-one) |
 | [1470-shuffle-the-array](https://github.com/saipavan954/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
