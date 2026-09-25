@@ -92,6 +92,7 @@
 | ------- |
 | [0078-subsets](https://github.com/saipavan954/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/saipavan954/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/saipavan954/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
