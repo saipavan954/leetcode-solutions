@@ -44,6 +44,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/saipavan954/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/saipavan954/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/saipavan954/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
