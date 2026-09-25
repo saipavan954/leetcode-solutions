@@ -27,6 +27,7 @@
 | [0035-search-insert-position](https://github.com/saipavan954/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/saipavan954/leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/saipavan954/leetcode-solutions/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/saipavan954/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/saipavan954/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -111,6 +112,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/saipavan954/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [3467-transform-array-by-parity](https://github.com/saipavan954/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/saipavan954/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Database
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/saipavan954/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
