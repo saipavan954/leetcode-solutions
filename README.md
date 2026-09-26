@@ -16,6 +16,7 @@
 | [0292-nim-game](https://github.com/saipavan954/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/saipavan954/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/saipavan954/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/saipavan954/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2413-smallest-even-multiple](https://github.com/saipavan954/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -175,6 +176,7 @@
 | [0035-search-insert-position](https://github.com/saipavan954/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/saipavan954/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saipavan954/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/saipavan954/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
