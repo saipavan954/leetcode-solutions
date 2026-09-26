@@ -34,6 +34,7 @@
 | [0088-merge-sorted-array](https://github.com/saipavan954/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/saipavan954/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1470-shuffle-the-array](https://github.com/saipavan954/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/saipavan954/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0771-jewels-and-stones](https://github.com/saipavan954/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/saipavan954/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
