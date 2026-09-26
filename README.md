@@ -15,6 +15,7 @@
 | [0263-ugly-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/saipavan954/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/saipavan954/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/saipavan954/leetcode-solutions/tree/master/0342-power-of-four) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2413-smallest-even-multiple](https://github.com/saipavan954/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -110,6 +111,7 @@
 | [0190-reverse-bits](https://github.com/saipavan954/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/saipavan954/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/saipavan954/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/saipavan954/leetcode-solutions/tree/master/0342-power-of-four) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
@@ -167,6 +169,7 @@
 | [0050-powx-n](https://github.com/saipavan954/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/saipavan954/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/saipavan954/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/saipavan954/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
