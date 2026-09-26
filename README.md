@@ -109,6 +109,7 @@
 | [0136-single-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/saipavan954/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/saipavan954/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/saipavan954/leetcode-solutions/tree/master/0338-counting-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
@@ -211,4 +212,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/saipavan954/leetcode-solutions/tree/master/0292-nim-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/saipavan954/leetcode-solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
