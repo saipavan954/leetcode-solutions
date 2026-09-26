@@ -10,6 +10,7 @@
 | [0168-excel-sheet-column-title](https://github.com/saipavan954/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/saipavan954/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2413-smallest-even-multiple](https://github.com/saipavan954/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -99,6 +100,7 @@
 | [0078-subsets](https://github.com/saipavan954/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/saipavan954/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/saipavan954/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/saipavan954/leetcode-solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/saipavan954/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
