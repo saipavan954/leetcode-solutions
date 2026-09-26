@@ -13,6 +13,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2413-smallest-even-multiple](https://github.com/saipavan954/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/saipavan954/leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [2614-prime-in-diagonal](https://github.com/saipavan954/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2769-find-the-maximum-achievable-number](https://github.com/saipavan954/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/saipavan954/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saipavan954/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -39,6 +40,7 @@
 | [1929-concatenation-of-array](https://github.com/saipavan954/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/saipavan954/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/saipavan954/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2614-prime-in-diagonal](https://github.com/saipavan954/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2942-find-words-containing-character](https://github.com/saipavan954/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saipavan954/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/saipavan954/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/saipavan954/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [2614-prime-in-diagonal](https://github.com/saipavan954/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saipavan954/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
@@ -156,4 +159,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/saipavan954/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
