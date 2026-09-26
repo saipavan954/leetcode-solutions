@@ -11,6 +11,7 @@
 | [0171-excel-sheet-column-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/saipavan954/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/saipavan954/leetcode-solutions/tree/master/0258-add-digits) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2413-smallest-even-multiple](https://github.com/saipavan954/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -72,6 +73,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/saipavan954/leetcode-solutions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/saipavan954/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/saipavan954/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/saipavan954/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -127,6 +129,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/saipavan954/leetcode-solutions/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/saipavan954/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/saipavan954/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saipavan954/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
