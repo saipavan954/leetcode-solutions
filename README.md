@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/saipavan954/leetcode-solutions/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/saipavan954/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0202-happy-number) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2413-smallest-even-multiple](https://github.com/saipavan954/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0202-happy-number) |
 | [0771-jewels-and-stones](https://github.com/saipavan954/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -138,6 +140,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/saipavan954/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,4 +166,8 @@
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/saipavan954/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
