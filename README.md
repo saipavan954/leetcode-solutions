@@ -12,6 +12,7 @@
 | [0202-happy-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/saipavan954/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saipavan954/leetcode-solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0263-ugly-number) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2413-smallest-even-multiple](https://github.com/saipavan954/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
