@@ -60,6 +60,7 @@
 | [0058-length-of-last-word](https://github.com/saipavan954/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/saipavan954/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/saipavan954/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/saipavan954/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/saipavan954/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -83,6 +84,7 @@
 | [0169-majority-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/saipavan954/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/saipavan954/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/saipavan954/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -133,6 +135,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/saipavan954/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/saipavan954/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [3467-transform-array-by-parity](https://github.com/saipavan954/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/saipavan954/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Database
