@@ -13,6 +13,7 @@
 | [0231-power-of-two](https://github.com/saipavan954/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saipavan954/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/saipavan954/leetcode-solutions/tree/master/0292-nim-game) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2413-smallest-even-multiple](https://github.com/saipavan954/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -188,4 +189,24 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/saipavan954/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/saipavan954/leetcode-solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/saipavan954/leetcode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/saipavan954/leetcode-solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/saipavan954/leetcode-solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/saipavan954/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
