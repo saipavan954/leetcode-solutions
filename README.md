@@ -42,6 +42,7 @@
 | [0169-majority-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/saipavan954/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/saipavan954/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/saipavan954/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/saipavan954/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -93,6 +94,7 @@
 | [0202-happy-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/saipavan954/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/saipavan954/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/saipavan954/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/saipavan954/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/saipavan954/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -147,6 +149,7 @@
 | [0088-merge-sorted-array](https://github.com/saipavan954/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saipavan954/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/saipavan954/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/saipavan954/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3467-transform-array-by-parity](https://github.com/saipavan954/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/saipavan954/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Database
@@ -161,10 +164,12 @@
 | [0202-happy-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/saipavan954/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/saipavan954/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/saipavan954/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/saipavan954/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/saipavan954/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Recursion
 |  |
 | ------- |
