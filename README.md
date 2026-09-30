@@ -20,6 +20,7 @@
 | [0367-valid-perfect-square](https://github.com/saipavan954/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1512-number-of-good-pairs](https://github.com/saipavan954/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2235-add-two-integers](https://github.com/saipavan954/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/saipavan954/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/saipavan954/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/saipavan954/leetcode-solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
