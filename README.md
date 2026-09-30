@@ -28,6 +28,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/saipavan954/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/saipavan954/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saipavan954/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/saipavan954/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/saipavan954/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saipavan954/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/saipavan954/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -62,6 +63,7 @@
 | [2614-prime-in-diagonal](https://github.com/saipavan954/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2942-find-words-containing-character](https://github.com/saipavan954/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saipavan954/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/saipavan954/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/saipavan954/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saipavan954/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/saipavan954/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
@@ -166,6 +168,7 @@
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/saipavan954/leetcode-solutions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/saipavan954/leetcode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/saipavan954/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/saipavan954/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/saipavan954/leetcode-solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saipavan954/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
