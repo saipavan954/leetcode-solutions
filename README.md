@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/saipavan954/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/saipavan954/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/saipavan954/leetcode-solutions/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/saipavan954/leetcode-solutions/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/saipavan954/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0202-happy-number) |
@@ -110,11 +111,13 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/saipavan954/leetcode-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/saipavan954/leetcode-solutions/tree/master/0089-gray-code) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/saipavan954/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/saipavan954/leetcode-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/saipavan954/leetcode-solutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/saipavan954/leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/saipavan954/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/saipavan954/leetcode-solutions/tree/master/0231-power-of-two) |
